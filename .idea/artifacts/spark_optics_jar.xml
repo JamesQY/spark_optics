@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark_optics:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_optics_jar</output-path>
+    <root id="archive" name="spark_optics.jar">
+      <element id="module-output" name="spark_optics" />
+      <element id="extracted-dir" path="D:/Program Files/Weka-3-8/weka3_7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
